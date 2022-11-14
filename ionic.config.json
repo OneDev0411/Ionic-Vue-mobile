@@ -1,0 +1,7 @@
+{
+  "name": "idreamer",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
